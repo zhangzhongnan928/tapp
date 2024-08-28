@@ -1,5 +1,5 @@
 # tapps,tokens as apps
-| Aspect | Tapps (Token Applications) | Dapps (Decentralized Applications) |
+| Aspect | Tapps | Dapps  |
 |--------|----------------------------|-------------------------------------|
 | **Advantages** | • Enhanced portability: functionality travels with token<br>• Improved user experience: accessed through wallets<br>• Better integration: easily composable with other services<br>• Fine-grained control: represent complex rights/assets<br>• Consistent trust model: tokens as trust anchors<br>• Lower barrier to entry: only need compatible wallet | • Established ecosystem: mature development tools<br>• Familiarity: users accustomed to app model<br>• Flexibility: designed for specific use cases<br>• Independence: can operate autonomously |
 | **Disadvantages** | • Relatively new concept: less established ecosystem<br>• Complexity: may require sophisticated development<br>• Limited awareness: unfamiliar to users/developers<br>• Potential security risks: if not properly implemented | • Less portable: tied to specific interfaces<br>• Inconsistent user experience: varies between dapps<br>• Higher barrier to entry: need to find/trust interfaces<br>• Limited composability: clunky integrations<br>• Varied trust models: must trust each dapp<br>• Distribution challenges: often require downloads |
