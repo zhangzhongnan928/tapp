@@ -1,5 +1,14 @@
 # tapps,tokens as apps
-| Aspect | Tapps | Dapps  |
-|--------|----------------------------|-------------------------------------|
-| **Advantages** | • Enhanced portability: functionality travels with token<br>• Improved user experience: accessed through wallets<br>• Better integration: easily composable with other services<br>• Fine-grained control: represent complex rights/assets<br>• Consistent trust model: tokens as trust anchors<br>• Lower barrier to entry: only need compatible wallet | • Established ecosystem: mature development tools<br>• Familiarity: users accustomed to app model<br>• Flexibility: designed for specific use cases<br>• Independence: can operate autonomously |
-| **Disadvantages** | • Relatively new concept: less established ecosystem<br>• Complexity: may require sophisticated development<br>• Limited awareness: unfamiliar to users/developers<br>• Potential security risks: if not properly implemented | • Less portable: tied to specific interfaces<br>• Inconsistent user experience: varies between dapps<br>• Higher barrier to entry: need to find/trust interfaces<br>• Limited composability: clunky integrations<br>• Varied trust models: must trust each dapp<br>• Distribution challenges: often require downloads |
+# Comparison of Tapps and Dapps
+
+| Aspect | Tapps | Dapps |
+|--------|-------|-------|
+| **Advantages** | • Functionality directly tied to tokens, more portable<br>• Consistent user experience across platforms<br>• No need to download separate applications<br>• High composability<br>• Trust derived from the token itself<br>• Well-suited for expressing complex rights and assets | • Mature ecosystem<br>• Relatively simple development<br>• Can have very complex functionalities<br>• More flexible data storage options |
+| **Disadvantages** | • Emerging technology, immature ecosystem<br>• Higher development complexity<br>• Functionality limited by token capabilities<br>• Limited data storage options | • Inconsistent user experience across different dapps<br>• Requires downloading separate applications<br>• Difficult cross-application integration<br>• Trust dependent on application provider |
+| **Trust Model** | • Trust is embedded in the token<br>• Portable across different platforms<br>• Consistent trust model regardless of where the token is used | • Trust starts from website or app<br>• Users must remember specific websites or apps<br>• Trust is not portable across platforms<br>• New platforms require establishing new trust, even if using the same smart contracts |
+
+In summary, tapps have advantages in user experience, portability, and expressing complex rights, making them more suitable for future decentralized application scenarios. They also offer a more consistent and portable trust model. 
+
+Dapps currently have a more mature ecosystem and are simpler to develop, but have limitations in user experience, interoperability, and trust portability. With dapps, users need to establish trust with each new platform or interface, even when interacting with the same underlying smart contracts.
+
+The choice between tapps and dapps depends on specific application requirements, target user groups, and the importance of trust portability in the use case.
