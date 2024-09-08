@@ -14,8 +14,8 @@
 | **User Experience** 🟢 | • Same functions, UX may vary between different dapps<br>• Often requires separate apps/websites | • Consistent across platforms<br>• Use functions where you see your token<br>• No separate apps/websites needed |
 | **Rights Representation** 🟢 | Limited in representing complex real-world rights | Can represent complex real-world rights |
 | **Composability** 🟢 | Limited, often requires explicit integrations | High, easily mix and match capabilities |
-| **Development** 🔴 | • Established ecosystem<br>• Relatively simple development | • Emerging technology<br>• May require more sophisticated development |
-| **Security** 🔴 | Well-established security practices | Potential for new types of vulnerabilities if not implemented properly |
+| **Development** | • Established ecosystem<br>• Relatively simple development | • Emerging technology<br>• May require more sophisticated development |
+| **Security** | Well-established security practices | Potential for new types of vulnerabilities if not implemented properly |
 | **Development Time** 🟢 | Full development control, but can take a lot of time to set up and manage | Can be configured and running within minutes, with framework providing further time-saving features |
 | **Learning Curve**  | Proven to enable chart-topping solutions | Also proven to enable chart-topping solutions (e.g., Smart Cats Polygon, MORCHI Dapp Radar) |
 
